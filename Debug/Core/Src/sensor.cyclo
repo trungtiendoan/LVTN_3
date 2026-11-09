@@ -1,0 +1,5 @@
+../Core/Src/sensor.c:10:6:delay_us	2
+../Core/Src/sensor.c:18:6:DHT_SetOutPut	1
+../Core/Src/sensor.c:29:6:DHT_SetInPut	1
+../Core/Src/sensor.c:40:9:wait_level	3
+../Core/Src/sensor.c:56:9:DHT11_Read	9

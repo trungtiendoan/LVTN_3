@@ -1,0 +1,2 @@
+../Core/Src/CCS811.c:19:6:CCS811_Init	2
+../Core/Src/CCS811.c:56:6:CCS811_Read	3

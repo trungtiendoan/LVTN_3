@@ -1,0 +1,10 @@
+../Core/Src/usart.c:40:6:MX_USART1_UART_Init	2
+../Core/Src/usart.c:71:6:MX_USART2_UART_Init	2
+../Core/Src/usart.c:99:6:HAL_UART_MspInit	4
+../Core/Src/usart.c:174:6:HAL_UART_MspDeInit	3
+../Core/Src/usart.c:221:11:Get_uart_buff	1
+../Core/Src/usart.c:227:11:Get_uart_subbuff	1
+../Core/Src/usart.c:234:5:_wait_usart	3
+../Core/Src/usart.c:249:5:_write_ringbuff	1
+../Core/Src/usart.c:256:6:HAL_UARTEx_RxEventCallback	4
+../Core/Src/usart.c:275:5:_log	1
